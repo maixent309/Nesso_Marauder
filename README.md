@@ -4,7 +4,7 @@ Official **pre-built firmware** for the Arduino **Nesso N1** (ESP32-C6).
 
 ## Download (flash files only)
 
-**[Go to Releases → latest `Nesso_Marauder-x.y.z.zip`](https://github.com/maixent309/NessoSuite-Flash/releases)**
+**[Go to Releases → latest `Nesso_Marauder-x.y.z.zip`](https://github.com/maixent309/Nesso_Marauder/releases)**
 
 Each version is a separate release (1.0.2, 1.0.3, …). Unzip and run `flash_windows.bat`.
 
